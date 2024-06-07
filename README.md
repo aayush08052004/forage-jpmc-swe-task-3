@@ -1,2 +1,2 @@
-# forage-jpmc-swe-task-3
-JP Morgan Software Engineering Virtual Simulation Task-3
+# JPMC Task 3
+Starter repo for task 3 of JPMC's Forage program
